@@ -1,16 +1,16 @@
 # StudentPerformanceTracker
 Java OOP Project - Students Academic Performance Tracker
 
-## 📚 Project Description
+## Project Description
 A Java console application to track and analyze students' academic performance.
 
-## 🚀 Features
+## Features
 - Student details management
 - Marks input with validation
 - Performance analysis (average, max, min)
 - Pass/Fail status
 
-## 🛠 Technologies Used
+## Technologies Used
 - Java
 - Object-Oriented Programming
 - Math class functions
